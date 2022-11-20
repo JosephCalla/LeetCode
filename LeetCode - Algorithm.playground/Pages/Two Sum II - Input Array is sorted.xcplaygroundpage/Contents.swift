@@ -11,7 +11,7 @@ func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
         var sum = nums[left] + nums[right]
         
         if sum == target {
-            return [left+1, right+1]
+            return [left + 1, right + 1]
         } else if sum < target {
             left+=1
         } else {
