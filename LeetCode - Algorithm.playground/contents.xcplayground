@@ -19,5 +19,6 @@
         <page name='Middle of the Linked List'/>
         <page name='Remove Nth From End of List'/>
         <page name='Longest Substring Without Repeating Characters'/>
+        <page name='Permutation in String'/>
     </pages>
 </playground>
