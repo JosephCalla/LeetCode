@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Roman to Integer'/>
+        <page name='Largest Common Prefix'/>
+        <page name='Palindrome Number'/>
+        <page name='Decode Ways'/>
+        <page name=' Valid Parentheses '/>
+        <page name='Remove Duplicates from Sorted Array'/>
+        <page name='Remove Element'/>
+        <page name='Binary Search'/>
+        <page name='First Bad Version'/>
+        <page name='Search Insert Postion'/>
+        <page name='Rotate Array'/>
+        <page name='Move Zeroes'/>
+        <page name='Two Sum II - Input Array is sorted'/>
+        <page name='Reversed String'/>
+        <page name='Reverse Words in a String III'/>
+        <page name='Middle of the Linked List'/>
+        <page name='Remove Nth From End of List'/>
+        <page name='Longest Substring Without Repeating Characters'/>
+        <page name='Permutation in String'/>
+    </pages>
+</playground>
