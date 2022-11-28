@@ -20,5 +20,6 @@
         <page name='Remove Nth From End of List'/>
         <page name='Longest Substring Without Repeating Characters'/>
         <page name='Permutation in String'/>
+        <page name='Running Sum of 1d Array'/>
     </pages>
 </playground>

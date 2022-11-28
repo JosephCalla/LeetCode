@@ -16,8 +16,9 @@ func moveZeroes(_ nums: inout [Int]) {
 }
 
 
-//var nums = [0,1,0,3,12]
+var nums = [0,1,0,3,12]
 //var nums = [0]
-var nums = [0,0,1]
+//var nums = [0,0,1]
 moveZeroes(&nums)
+
 //: [Next](@next)
